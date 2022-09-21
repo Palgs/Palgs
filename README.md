@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Palgs
 - 👀 I’m interested in alot of stuff. Mainly Games, Cars and Music.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python AI and stuff.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: you gotta have long arms. just sayin.
 
